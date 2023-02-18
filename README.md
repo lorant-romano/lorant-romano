@@ -19,6 +19,11 @@ technical_background: ["Machine Learning", "Optimization",
                        "Deep Learning", "Real-Time Visualization", "Data Strategy"]
 hobbies: ["Motorcycle", "Cinema", "Brazilian Jiu Jitsu", "IoT"]
 ```
+<p align="center">
+<a href="https://www.linkedin.com/in/lorant-romano">
+  <img alt="Lorant's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+ </p>
 <h3>Things I code with</h3>
 <p>
 
