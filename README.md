@@ -4,16 +4,17 @@
 
 ```yaml
 name: Lorant Romano
-located_in: São Paulo, Brazil
+located_in: London, UK
 from: São Paulo (Brazil)
-job: Head of Data & Analytics
+job: Data Team lead
 education: ["Executive MBA", "Specialization in Big Data", "Bachelor's in Computer Engineer"]
-company: Azos Insurance
+company: Metric Gaming
 past experiences: 
-  - ["Head of Data & Analytics", "Sorte Online", "Brazil", "2021-2022"]
-  - ["Data Scientist", "Koin", "Brazil", "2020-2021"]
-  - ["Data Scientist", "Trax Retail", "Israel", "2019-2021]
-  - ["Sr Data Analyst", "Johnson & Johnson", "Brazil", "2015"]
+  - ["Head of Data & Analytics", "Azos", "Brazil", "2021-2023]
+  - ["Head of Data & Analytics", "Sorte Online", "Brazil", "2018-2021"]
+  - ["Data Scientist", "Koin", "Brazil", "2018-2018"]
+  - ["Data Scientist", "Trax Retail", "Israel", "2017-2018]
+  - ["Sr Data Analyst", "Johnson & Johnson", "Brazil", "2014-2016"]
 
 technical_background: ["Machine Learning", "Optimization", 
                        "Deep Learning", "Real-Time Visualization", "Data Strategy"]
