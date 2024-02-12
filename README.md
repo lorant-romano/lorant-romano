@@ -4,12 +4,13 @@
 
 ```yaml
 name: Lorant Romano
-located_in: London, UK
+located_in: Amsterdam, NL
 from: São Paulo (Brazil)
-job: Data Team lead
+job: Senior Data Engineer
+company: Company.info
 education: ["Executive MBA", "Specialization in Big Data", "Bachelor's in Computer Engineer"]
-company: Metric Gaming
-past experiences: 
+past experiences:
+  - ["Data Team Lead", "Metric Gaming", "UK", "2023-2023]
   - ["Head of Data & Analytics", "Azos", "Brazil", "2021-2023]
   - ["Head of Data & Analytics", "Sorte Online", "Brazil", "2018-2021"]
   - ["Data Scientist", "Koin", "Brazil", "2018-2018"]
